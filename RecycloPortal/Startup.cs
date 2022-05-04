@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace RecycloPortal
+namespace RecicloPortal
 {
     public class Startup
     {

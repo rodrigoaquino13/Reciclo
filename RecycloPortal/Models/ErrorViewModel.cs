@@ -1,6 +1,6 @@
 using System;
 
-namespace RecycloPortal.Models
+namespace RecicloPortal.Models
 {
     public class ErrorViewModel
     {
