@@ -9,11 +9,11 @@ using System.Threading.Tasks;
 
 namespace RecicloPortal.Controllers
 {
-    public class HomeController : Controller
+    public class TabelaController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<TabelaController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public TabelaController(ILogger<TabelaController> logger)
         {
             _logger = logger;
         }
